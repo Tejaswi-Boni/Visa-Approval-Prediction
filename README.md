@@ -2,24 +2,23 @@
 
 ## Git Commands
 
-'''bash'''
 
-git add .
 
-git commit -m "Updated"
+`git add .`
 
-git push origin main
+`git commit -m "Updated"`
 
-'''bash'''
+`git push origin main`
+
+
 
 ## Environment 
 
-conda create -n visa python=3.8 -y
+`conda create -n visa python=3.8 -y`
 
-conda activate visa
+`conda activate visa`
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
-python app.py
+`python app.py`
 
-This is an example of `inline code`.
