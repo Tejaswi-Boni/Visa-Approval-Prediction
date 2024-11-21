@@ -17,5 +17,9 @@ git push origin main
 conda create -n visa python=3.8 -y
 
 conda activate visa
+
 pip install -r requirements.txt
+
 python app.py
+
+This is an example of `inline code`.
