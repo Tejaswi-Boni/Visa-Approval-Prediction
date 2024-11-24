@@ -30,3 +30,4 @@
 4. component
 5. pipeline
 6. app.py / demo.py
+7. Endpoint
