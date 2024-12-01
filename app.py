@@ -76,7 +76,7 @@ async def trainRouteClient():
     except Exception as e:
         return Response(f"Error Occurred! {e}")
 
-
+# app post
 @app.post("/")
 async def predictRouteClient(request: Request):
     try:
